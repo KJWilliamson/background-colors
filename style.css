@@ -1,6 +1,5 @@
 #color_box {
-    width: 87.8rem;
-    height: 38.4rem;
+  min-height: calc(100vh - 3rem);
   }
   
   .green {
