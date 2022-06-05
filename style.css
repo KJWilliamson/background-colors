@@ -1,44 +1,174 @@
 #color_box {
+  /* 
+    height: 100vh; means the height of this element is equal to 100% of the viewport height.
+    height: calc() is just used to calculate the value inside the parenthesis.
+Example height: calc(100vh - 60px);
+Here the height will be lesser by 60px in viewport height.
+    */
   min-height: calc(100vh - 3rem);
   }
   
-  .green {
+#green_button {
+    background: #bdbf09;
+    color: white;
+    border: #bdbf09 solid 2px;
+  }
+.green {
     background: #bdbf09;
   }
-  .blue {
+
+#blue_button {
+    background: #2292a4;
+    color: white;
+    border: #2292a4 solid 2px;
+}
+.blue {
     background: #2292a4;
   }
+  
+  #orange_button {
+    background: #d96c06;
+    color: white;
+    border: #d96c06 2px solid;
+}
   .orange {
     background: #d96c06;
   }
   
+  #yellow_button {
+    background: #ffbd00;
+    color: white;
+    border: #ffbd00 2px solid;
+}
   .yellow {
     background: #ffbd00;
   }
   
+  #red_button {
+    background: #ff0054;
+    color: white;
+    border: #ff0054 2px solid;
+}
   .red {
     background: #ff0054;
   }
   
+  #pink_button {
+    background: #9e0059;
+    color: white;
+    border: #9e0059 2px solid;
+}
   .pink {
     background: #9e0059;
   }
   
+  #purple_button {
+    background: #531253;
+    color: white;
+    border: #531253 2px solid;
+}
   .purple {
     background: #531253;
   }
   
+  #mauve_button {
+    background: #c493b0;
+    color: white;
+    border: #c493b0 2px solid;
+}
   .mauve {
     background: #c493b0;
   }
   
+  #gray_button {
+    background: #6f686d;
+    color: white;
+    border: #6f686d 2px solid;
+}
   .gray {
     background: #6f686d;
   }
   
+  #brown_button {
+    background: #554640;
+    color: white;
+    border: #554640 2px solid;
+}
   .brown {
     background: #554640;
   }
 
+  #sienna_button {
+    background: #ee6c4d;
+    color: white;
+    border: #ee6c4d solid 2px;
+  }
+
+  .sienna {
+    background: #ee6c4d;
+  }
   
-  
+#cyan_button {
+  background: #e0fbfc;
+  color: white;
+  border: #e0fbfc 2px solid;
+}
+
+.cyan {
+  background: #e0fbfc;
+}
+
+
+#tea_button {
+  background: #c6d8af;
+  color: white;
+  border: #c6d8af 2px solid;
+}
+
+.tea {
+  background: #c6d8af;
+}
+
+
+#apricot_button {
+  background: #fcc8b2;
+  color: white;
+  border: #fcc8b2 2px solid;
+}
+
+.apricot {
+  background: #fcc8b2;
+}
+
+
+#eggplant_button {
+  background: #685369;
+  color: white;
+  border: #685369 2px solid;
+}
+
+.eggplant {
+  background: #685369;
+}
+
+
+#salmon_button {
+  background: #efa48b;
+  color: white;
+  border: #efa48b 2px solid;
+}
+
+.salmon {
+  background: #efa48b;
+}
+
+#mint_button {
+  background: #b4e7ce;
+  color: white;
+  border: #b4e7ce 2px solid;
+}
+
+.mint {
+  background: #b4e7ce;
+}
+

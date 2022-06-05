@@ -51,3 +51,40 @@ brown_button.onclick = function () {
 };
 
 
+const sienna_button = document.getElementById('sienna_button');
+sienna_button.onclick = function () {
+    color_box.className = "sienna";
+};
+
+const cyan_button = document.getElementById("cyan_button");
+cyan_button.onclick = function () {
+    color_box.className = "cyan";
+};
+
+const tea_button = document.getElementById("tea_button");
+tea_button.onclick = function () {
+  color_box.className = "tea";
+};
+
+const apricot_button = document.getElementById("apricot_button");
+apricot_button.onclick = function () {
+    color_box.className = "apricot";
+};
+
+const eggplant_button = document.getElementById("eggplant_button");
+eggplant_button.onclick = function () {
+    color_box.className = "eggplant";
+};
+
+const salmon_button = document.getElementById("salmon_button");
+salmon_button.onclick = function () {
+    color_box.className = "salmon";
+};
+
+const mint_button = document.getElementById("mint_button");
+mint_button.onclick = function () {
+    color_box.className = "mint";
+};
+
+
+
