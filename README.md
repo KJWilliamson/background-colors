@@ -1,4 +1,4 @@
-# background-colors
+## On-demand background color changer for a client built with HTML, CSS, and Javascript
 
 https://background-colors.netlify.app/
 
